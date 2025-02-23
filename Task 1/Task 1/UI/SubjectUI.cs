@@ -21,18 +21,5 @@ namespace Task_1.UI
             int fees = int.Parse(Console.ReadLine());
             return new Subject(code, creditHours, type, fees);
         }
-
-        public static string TakeSubjectNameAsInput()
-        {
-            Console.WriteLine("Enter the number of subjects you want to register in: ");
-            int count=int.Parse(Console.ReadLine());
-            for (int i = 0;i<count;i++)
-            {
-                Console.WriteLine("Enter Subject Code: ");
-                string code = Console.ReadLine();
-                return code;
-            }
-            return null;
-        }
     }
 }
