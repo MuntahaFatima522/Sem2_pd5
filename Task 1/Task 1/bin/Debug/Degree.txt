@@ -1,0 +1,6 @@
+CS,4,23,83.5,PF;OOP
+Mech,4,34,79.4,Robotics;Construction
+CE,4,34,78.9,OOP;Construction
+CIV,4,23,60,CALCULUS;DM
+EE,4,23,60,Mechanics;Physics
+Math,4,23,60,CC;GH

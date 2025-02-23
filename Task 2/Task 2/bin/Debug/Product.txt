@@ -1,0 +1,4 @@
+Eggs,grocery,50,33,12
+Apple,fruit,78,18,12
+bread,grocery,45,7,2
+Banana,fruit,12,2,3

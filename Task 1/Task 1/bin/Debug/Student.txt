@@ -1,0 +1,9 @@
+Ahmad,12,1000,520,CS;CE;Mech
+Haram,15,970,310,CS;CE;Mech
+Sara,19,960,360,CE;CS;Civil
+Muntaha,18,1112,345,CS;CE
+Alina,17,1111,333,CE
+Asma,17,1090,345,CIV;CE
+Gull,17,1000,300,Mech;CIV
+Tahir,18,1020,280,EE
+Umar,18,1100,230,Math

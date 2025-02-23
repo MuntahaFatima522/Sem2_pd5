@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|c:\\users\\munataha fatima\\documents\\oopl\\week 5\\manual\\pd\\task 2\\task 2\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\dl\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\dl\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\dl\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\dl\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\ui\\signupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ui\\signupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\task 2\\ui\\signinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD532DC-F42D-4A1E-A1AE-6D9E37CD5FB9}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ui\\signinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:47:07.754Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\AdminUI.cs",
+              "RelativeDocumentMoniker": "Task 2\\UI\\AdminUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\AdminUI.cs",
+              "RelativeToolTip": "Task 2\\UI\\AdminUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:01:34.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "Task 2\\UI\\CustomerUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\CustomerUI.cs",
+              "RelativeToolTip": "Task 2\\UI\\CustomerUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:59:27.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\DL\\UserCRUD.cs",
+              "RelativeDocumentMoniker": "Task 2\\DL\\UserCRUD.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\DL\\UserCRUD.cs",
+              "RelativeToolTip": "Task 2\\DL\\UserCRUD.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:54:21.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUpUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\SignUpUI.cs",
+              "RelativeDocumentMoniker": "Task 2\\UI\\SignUpUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\SignUpUI.cs",
+              "RelativeToolTip": "Task 2\\UI\\SignUpUI.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:36:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\BL\\User.cs",
+              "RelativeDocumentMoniker": "Task 2\\BL\\User.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\BL\\User.cs",
+              "RelativeToolTip": "Task 2\\BL\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:57:37.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "Task 2\\UI\\ConsoleUtility.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\ConsoleUtility.cs",
+              "RelativeToolTip": "Task 2\\UI\\ConsoleUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:00:03.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\ProductUI.cs",
+              "RelativeDocumentMoniker": "Task 2\\UI\\ProductUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\ProductUI.cs",
+              "RelativeToolTip": "Task 2\\UI\\ProductUI.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:59:37.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\DL\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "Task 2\\DL\\ProductCRUD.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\DL\\ProductCRUD.cs",
+              "RelativeToolTip": "Task 2\\DL\\ProductCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:58:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\BL\\Product.cs",
+              "RelativeDocumentMoniker": "Task 2\\BL\\Product.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\BL\\Product.cs",
+              "RelativeToolTip": "Task 2\\BL\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:58:12.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\DL\\CustomerCRUD.cs",
+              "RelativeDocumentMoniker": "Task 2\\DL\\CustomerCRUD.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\DL\\CustomerCRUD.cs",
+              "RelativeToolTip": "Task 2\\DL\\CustomerCRUD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:58:25.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignInUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\SignInUI.cs",
+              "RelativeDocumentMoniker": "Task 2\\UI\\SignInUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\pd\\Task 2\\Task 2\\UI\\SignInUI.cs",
+              "RelativeToolTip": "Task 2\\UI\\SignInUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:37:08.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

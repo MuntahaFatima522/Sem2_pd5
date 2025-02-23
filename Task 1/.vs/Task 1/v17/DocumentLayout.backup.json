@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\ui\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\ui\\degreeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|c:\\users\\munataha fatima\\documents\\oopl\\week 5\\manual\\task 1\\task 1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\dl\\degreecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\dl\\degreecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\task 1\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366FA4EB-0F03-4F6A-8698-2521AC25F8FB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\Program.cs",
+              "RelativeToolTip": "Task 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:11:23.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "Task 1\\UI\\StudentUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\StudentUI.cs",
+              "RelativeToolTip": "Task 1\\UI\\StudentUI.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T05:31:51.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\DL\\StudentCRUD.cs",
+              "RelativeDocumentMoniker": "Task 1\\DL\\StudentCRUD.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\DL\\StudentCRUD.cs",
+              "RelativeToolTip": "Task 1\\DL\\StudentCRUD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T05:40:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "Task 1\\BL\\Student.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\BL\\Student.cs",
+              "RelativeToolTip": "Task 1\\BL\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA2wCwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:16:57.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "Task 1\\UI\\SubjectUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\SubjectUI.cs",
+              "RelativeToolTip": "Task 1\\UI\\SubjectUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:49:35.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "Task 1\\UI\\ConsoleUtility.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\ConsoleUtility.cs",
+              "RelativeToolTip": "Task 1\\UI\\ConsoleUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:30:23.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DegreeCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\DL\\DegreeCRUD.cs",
+              "RelativeDocumentMoniker": "Task 1\\DL\\DegreeCRUD.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\DL\\DegreeCRUD.cs",
+              "RelativeToolTip": "Task 1\\DL\\DegreeCRUD.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:30:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\BL\\Subject.cs",
+              "RelativeDocumentMoniker": "Task 1\\BL\\Subject.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\BL\\Subject.cs",
+              "RelativeToolTip": "Task 1\\BL\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:31:26.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\DL\\SubjectCRUD.cs",
+              "RelativeDocumentMoniker": "Task 1\\DL\\SubjectCRUD.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\DL\\SubjectCRUD.cs",
+              "RelativeToolTip": "Task 1\\DL\\SubjectCRUD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:49:44.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DegreeUI.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\DegreeUI.cs",
+              "RelativeDocumentMoniker": "Task 1\\UI\\DegreeUI.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\UI\\DegreeUI.cs",
+              "RelativeToolTip": "Task 1\\UI\\DegreeUI.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:10:14.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\BL\\DegreeProgram.cs",
+              "RelativeDocumentMoniker": "Task 1\\BL\\DegreeProgram.cs",
+              "ToolTip": "C:\\Users\\munataha fatima\\Documents\\OOPL\\week 5\\manual\\Task 1\\Task 1\\BL\\DegreeProgram.cs",
+              "RelativeToolTip": "Task 1\\BL\\DegreeProgram.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:15:36.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Muntaha,mun_123,Admin,mun@gmail.com,Lahore,0316666
+Faizan,fai_456,Customer,f@gmail.com,Lahore,45677
+Alina,alin_123,Admin,alina@gmail.com,Karachi,46778899
+Haram,har_123,admin,har@gmail.com,Lahore,234556
